@@ -1,0 +1,5 @@
+1) Construa uma classe chamada "Balde".
+2) Defina uma variável chamada qtdLitrosAgua(quanitdade de litros de água).
+3) Defina os métodos encher e esvaziar.
+4) Faça com que o balde seja cheio com 2 litros de água por vez. Sabendo que o balde tem capacidade para 10 litros, 
+   certifique-se que ele não transborde.

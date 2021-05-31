@@ -1,0 +1,4 @@
+1) Construa uma classe em Java chamada "ContaCorrente"
+2) Defina o atributo saldo para fazer o controle da quanitdade de dineiro da conta.
+3) Defina os métodos sacar e depositar, ambos devem manipular o saldo.
+4) Faça com que não seja possivel efetuar um saque caso o saldo seja inferior ao valor do saque.
