@@ -4,6 +4,7 @@ public class principal {
     public static void main(String[] args) {
         
         Monstro m1 = new Monstro();
+
         m1.setNome("Darius");
         m1.setLife(30);
         
