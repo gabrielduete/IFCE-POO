@@ -1,4 +1,5 @@
-1) Construa uma classe em Java chamada "ContaCorrente"
-2) Defina o atributo saldo para fazer o controle da quanitdade de dineiro da conta.
-3) Defina os métodos sacar e depositar, ambos devem manipular o saldo.
-4) Faça com que não seja possivel efetuar um saque caso o saldo seja inferior ao valor do saque.
+1) Construa uma classe chamada "Balde".
+2) Defina uma variável chamada qtdLitrosAgua(quanitdade de litros de água).
+3) Defina os métodos encher e esvaziar.
+4) Faça com que o balde seja cheio com 2 litros de água por vez. Sabendo que o balde tem capacidade para 10 litros, 
+   certifique-se que ele não transborde.
